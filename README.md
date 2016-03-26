@@ -5,5 +5,6 @@
 4. [如何解决json字符串中包含制表符](https://github.com/Mekor/NoteBook/blob/master/如何解决json字符串中包含制表符.md)
 5. [移除监听的时候出现 not registered as an observer](https://github.com/Mekor/NoteBook/blob/master/监听子控制器tableView.md)
 6. [找到父视图控制器](https://github.com/Mekor/NoteBook/blob/master/找到视图的父控制器.md)
-7. [与导航栏相关的问题](https://github.com/Mekor/NoteBook/blob/master/与导航栏相关的问题.md）
+7. [与导航栏相关的问题](https://github.com/Mekor/NoteBook/blob/master/与导航栏相关的问题.md)
+8. [iOS 判断设备是否安装SIM卡](https://github.com/Mekor/NoteBook/blob/master/iOS 判断设备是否安装SIM卡.md)
 
