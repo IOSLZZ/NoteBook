@@ -7,4 +7,5 @@
 6. [找到父视图控制器](https://github.com/Mekor/NoteBook/blob/master/找到视图的父控制器.md)
 7. [与导航栏相关的问题](https://github.com/Mekor/NoteBook/blob/master/与导航栏相关的问题.md)
 8. [iOS 判断设备是否安装SIM卡](https://github.com/Mekor/NoteBook/blob/master/iOS 判断设备是否安装SIM卡.md)
+9. [用户版中用到的加密](https://github.com/Mekor/NoteBook/blob/master/用户版中用到的加密.md)
 
