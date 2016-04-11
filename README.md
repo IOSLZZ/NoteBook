@@ -8,4 +8,5 @@
 7. [与导航栏相关的问题](https://github.com/Mekor/NoteBook/blob/master/与导航栏相关的问题.md)
 8. [iOS 判断设备是否安装SIM卡](https://github.com/Mekor/NoteBook/blob/master/iOS 判断设备是否安装SIM卡.md)
 9. [用户版中用到的加密](https://github.com/Mekor/NoteBook/blob/master/用户版中用到的加密.md)
+10. [Coding中检测系统授权状态，关闭提示用户去隐私设置中打开](https://github.com/Mekor/NoteBook/blob/master/Coding中检测系统授权状态，关闭提示用户去隐私设置中打开.md)
 
