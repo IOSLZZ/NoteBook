@@ -9,4 +9,5 @@
 8. [iOS 判断设备是否安装SIM卡](https://github.com/Mekor/NoteBook/blob/master/iOS 判断设备是否安装SIM卡.md)
 9. [用户版中用到的加密](https://github.com/Mekor/NoteBook/blob/master/用户版中用到的加密.md)
 10. [Coding中检测系统授权状态，关闭提示用户去隐私设置中打开](https://github.com/Mekor/NoteBook/blob/master/Coding中检测系统授权状态，关闭提示用户去隐私设置中打开.md)
+11. [百度坐标&火星坐标转换](https://github.com/Mekor/NoteBook/blob/master/百度坐标&火星坐标转换.md)
 
