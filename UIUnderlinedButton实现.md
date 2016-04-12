@@ -68,6 +68,6 @@ UIUnderlinedButton.m文件
 
 @end
 ```
-对descender属性不了解的可以去[维基百科](https://en.wikipedia.org/wiki/Ascender_%28typography%29) 其中最为直观的就是下面这张图
+对UIFont的descender属性不了解的可以去[维基百科](https://en.wikipedia.org/wiki/Ascender_%28typography%29) 其中最为直观的就是下面这张图
 ![line](media/14604465941997/line.png)
 
