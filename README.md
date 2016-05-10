@@ -15,4 +15,5 @@
 14. [UIUnderlinedButton实现.md](https://github.com/Mekor/NoteBook/blob/master/UIUnderlinedButton实现.md)
 15. [APNs测试推送工具](https://github.com/Mekor/NoteBook/blob/master/APNs测试推送工具.md)
 16. [修改textField的placeholder的字体颜色、大小.md](https://github.com/Mekor/NoteBook/blob/master/修改textField的placeholder的字体颜色、大小.md)
+17. [路由模式开发讨论](https://github.com/Mekor/NoteBook/blob/master/路由模式开发讨论.md)
 
