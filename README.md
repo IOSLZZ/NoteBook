@@ -18,4 +18,5 @@
 17. [路由模式开发讨论](https://github.com/Mekor/NoteBook/blob/master/路由模式开发讨论.md)
 18. [苹果推送问题说明](https://github.com/Mekor/NoteBook/blob/master/苹果推送问题说明.docx)
 19. [URL Scheme 中参数问题](https://github.com/Mekor/NoteBook/blob/master/URL Scheme 中参数问题.md)
+20. [重复引用问题](https://github.com/Mekor/NoteBook/blob/master/重复引用.md)
 
