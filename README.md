@@ -22,4 +22,5 @@
 21. [Xcode自动打包](https://github.com/Mekor/NoteBook/blob/master/Xcode自动打包.md)
 22. [AFN3.0 如何实现operation.responseString](https://github.com/Mekor/NoteBook/blob/master/AFN3.0 如何实现operation.responseString.md)
 23. [Keyboard will appeared automatically while displaying alertview or alertcontroller](https://github.com/Mekor/NoteBook/blob/master/Keyboard will appeared automatically while displaying alertview or alertcontroller.md)
+24. [Xcode 7.1 Errors UIAccessibility Errors](https://github.com/Mekor/NoteBook/blob/master/Xcode 7.1 Errors UIAccessibility Errors.md)
 
